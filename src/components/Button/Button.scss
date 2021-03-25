@@ -1,0 +1,12 @@
+.btn {
+  border: none;
+  background-color: rebeccapurple;
+  height: 38px;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+
+  &:focus {
+    outline: none;
+  }
+}

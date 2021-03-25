@@ -1,0 +1,1 @@
+export const RANDOM_CHANGE_COLOR = "color@RANDOM_CHANGE_COLOR";
